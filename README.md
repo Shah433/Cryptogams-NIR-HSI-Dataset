@@ -55,7 +55,7 @@ Cryptogams_NIR_HSI_Dataset.h5
 | `RAW_Cubes` | White- and dark-reference corrected hyperspectral cubes | `(39, 370, 520, 224)` |
 | `SNV_Cubes` | SNV-normalised hyperspectral cubes | `(39, 370, 520, 224)` |
 | `FinalMasks` | Pixel-level semantic segmentation masks | `(39, 370, 520)` |
-| `wavelength` | Wavelength vector ( 900-1700 nm) | `(224,)` |
+| `wavelength` | Wavelength vector (nm) | `(224,)` |
 
 ---
 
