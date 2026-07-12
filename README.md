@@ -2,6 +2,7 @@
 This repository provides demonstration code for loading, visualising, and analysing the **Cryptogams Near-Infrared Hyperspectral Imaging (NIR-HSI) Dataset**.
 
 The dataset contains close-range NIR-HSI cubes acquired from naturally occurring cryptogamic communities, including **chlorolichen, cyanolichen, bryophyte (moss), and bark substrate** classes. The dataset was collected and maintained by the **Waikato Instrumentation and Measurement Research (WAI2M), Hyperspectral Imaging Research Group, University of Waikato, New Zealand**.
+
 Research Group Website Link: https://hsi.eng.waikato.ac.nz/homehsi/
 
 The dataset was used in the conference paper:
