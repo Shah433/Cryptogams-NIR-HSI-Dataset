@@ -1,9 +1,9 @@
 # Cryptogams-NIR-HSI-Dataset
 This repository provides demonstration code for loading, visualising, and analysing the **Cryptogams Near-Infrared Hyperspectral Imaging (NIR-HSI) Dataset**.
 
-The dataset contains close-range NIR-HSI cubes acquired from naturally occurring cryptogamic communities, including **chlorolichen, cyanolichen, bryophyte (moss), and bark substrate** classes. The dataset was collected and maintained by the **Waikato Instrumentation and Measurement Research (WAI2M), Hyperspectral Imaging Research Group, University of Waikato, New Zealand**.
+The dataset contains proximal NIR-HSI cubes acquired from naturally occurring cryptogamic communities, including **chlorolichen, cyanolichen, bryophyte (moss), and bark substrate** classes. The hyperspectral images were acquired using a **Specim FX17e pushbroom hyperspectral camera** covering the **900–1700 nm near-infrared spectral range with 224 spectral bands**. The dataset was collected and maintained by the **Waikato Instrumentation and Measurement Research (WAI2M), Hyperspectral Imaging Research Group, University of Waikato, New Zealand**.
 
-Research Group Website Link: https://hsi.eng.waikato.ac.nz/homehsi/
+Research Group Website: https://hsi.eng.waikato.ac.nz/homehsi/
 
 The dataset was used in the conference paper:
 
@@ -57,7 +57,7 @@ Cryptogams_NIR_HSI_Dataset.h5
 | `RAW_Cubes` | White- and dark-reference corrected hyperspectral cubes | `(39, 370, 520, 224)` |
 | `SNV_Cubes` | SNV-normalised hyperspectral cubes | `(39, 370, 520, 224)` |
 | `FinalMasks` | Pixel-level semantic segmentation masks | `(39, 370, 520)` |
-| `wavelength` | Wavelength vector in nanometres | `(224,)` |
+| `wavelength` | Wavelength vector ( 900-1700 nm) | `(224,)` |
 
 ---
 
