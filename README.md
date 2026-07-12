@@ -72,7 +72,7 @@ The pixel-level semantic masks use the following label scheme:
 | 4 | Bark |
 | 255 | Unknown / Unlabelled (Ignore) |
 
-The ignore label (`255`) represents specimen pixels that could not be confidently assigned during annotation and should be excluded from supervised learning loss calculations.
+The ignore label (255) represents specimen pixels that could not be confidently assigned during annotation and are marked as unlabelled regions. 
 
 ---
 
