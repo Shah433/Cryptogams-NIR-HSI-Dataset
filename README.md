@@ -52,8 +52,8 @@ Cryptogams_NIR_HSI_Dataset.h5
 
 | Variable | Description | Dimensions |
 |---|---|---|
-| `Raw_Cubes` | White- and dark-reference corrected hyperspectral cubes | `(39, 370, 520, 224)` |
-| `SNV_Cubes` | SNV-normalised hyperspectral cubes | `(39, 370, 520, 224)` |
+| `Raw_Cubes` | Relative reflectance hyperspectral cubes | `(39, 370, 520, 224)` |
+| `SNV_Cubes` | SNV-normalised reflectance hyperspectral cubes | `(39, 370, 520, 224)` |
 | `FinalMasks` | Pixel-level semantic segmentation masks | `(39, 370, 520)` |
 | `wavelength` | Wavelength vector (nm) | `(224,)` |
 
@@ -184,10 +184,9 @@ H5_PATH = "/home/user/data/Cryptogams_NIR_HSI_Dataset.h5"
 
 The dataset preparation, annotation strategy, and segmentation methodology are described in:
 
-**Faisal, S. et al.**  
+**S. Faisal et al.**  
 *"Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation of Cryptogams With Sparse Annotations."*  
-IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA 2026).  
-Paper ID: 1571310702.
+IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA 2026). Accepted paper, Paper ID: 1571310702.
 
 ---
 
