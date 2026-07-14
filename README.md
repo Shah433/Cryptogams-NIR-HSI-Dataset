@@ -185,8 +185,7 @@ H5_PATH = "/home/user/data/Cryptogams_NIR_HSI_Dataset.h5"
 The dataset preparation, annotation strategy, and segmentation methodology are described in:
 
 **S. Faisal et al.**  
-*"Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation of Cryptogams With Sparse Annotations."*  
-IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA 2026). Accepted paper, Paper ID: 1571310702.
+*"Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation of Cryptogams With Sparse Annotations."* The IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA 2026). Accepted paper, Paper ID: 1571310702.
 
 ---
 
