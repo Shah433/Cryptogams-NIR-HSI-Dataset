@@ -50,12 +50,12 @@ Cryptogams_NIR_HSI_Dataset.h5
 
 ### Dataset Variables
 
-| Variable | Description | Dimensions |
-|---|---|---|
-| `Raw_Cubes` | Relative reflectance hyperspectral cubes | `(39, 370, 520, 224)` |
-| `SNV_Cubes` | SNV-normalised reflectance hyperspectral cubes | `(39, 370, 520, 224)` |
-| `FinalMasks` | Pixel-level semantic masks | `(39, 370, 520)` |
-| `wavelength` | Wavelength vector (nm) | `(224,)` |
+| Variable | Description | Dimensions | Data Type |
+|---|---|---|---|
+| `Raw_Cubes` | Relative reflectance hyperspectral cubes | `(39, 370, 520, 224)` | `float32` |
+| `SNV_Cubes` | SNV-normalised reflectance hyperspectral cubes | `(39, 370, 520, 224)` | `float16` |
+| `FinalMasks` | Pixel-level semantic masks | `(39, 370, 520)` | `uint8` |
+| `wavelength` | Wavelength vector (nm) | `(224,)` | `float32` |
 
 ---
 
