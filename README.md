@@ -225,5 +225,3 @@ Code:
 MIT License
 
 ```
-
-```
