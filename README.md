@@ -218,7 +218,11 @@ If you use this dataset in your research, please cite the dataset and associated
 
 ## License
 
-This dataset and associated code are released under:
+Dataset:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Code:
+MIT License
 
 ```
 
