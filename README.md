@@ -35,7 +35,7 @@ The dataset is provided as a single HDF5 (`.h5`) file containing hyperspectral c
 ```
 Cryptogams_NIR_HSI_Dataset.h5
 
-├── RAW_Cubes
+├── Raw_Cubes
 │   └── Shape: (39, 370, 520, 224)
 │
 ├── SNV_Cubes
@@ -52,7 +52,7 @@ Cryptogams_NIR_HSI_Dataset.h5
 
 | Variable | Description | Dimensions |
 |---|---|---|
-| `RAW_Cubes` | White- and dark-reference corrected hyperspectral cubes | `(39, 370, 520, 224)` |
+| `Raw_Cubes` | White- and dark-reference corrected hyperspectral cubes | `(39, 370, 520, 224)` |
 | `SNV_Cubes` | SNV-normalised hyperspectral cubes | `(39, 370, 520, 224)` |
 | `FinalMasks` | Pixel-level semantic segmentation masks | `(39, 370, 520)` |
 | `wavelength` | Wavelength vector (nm) | `(224,)` |
@@ -204,10 +204,17 @@ If you use this dataset in your research, please cite the dataset and associated
 ### Paper Citation
 
 ```
-Faisal, S. et al.
-Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation
-of Cryptogams With Sparse Annotations.
-IEEE ICSIMA 2026.
+@INPROCEEDINGS{1571310702,
+  author={Faisal, Shah and Ooi, Melanie Po-Leen and Kuang, Ye Chow and Abeysekera, Sanush K. and Thawdar, Yaminn},
+  booktitle={2026 IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)}, 
+  title={Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation of Cryptogams With Sparse Annotations}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+  address={Kuching, Sarawak, Malaysia},
+  note= {Accepted for presentation and publication, Paper ID: 1571310702}
+}
 ```
 
 ---
