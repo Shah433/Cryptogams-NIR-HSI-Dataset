@@ -195,7 +195,7 @@ If you use this dataset in your research, please cite the dataset and associated
 ### Dataset Citation
 
 ```
-
+Faisal, Shah; Ooi, Melanie  (2026), “A Proximal Near-Infrared Hyperspectral Imaging Dataset of Cryptogamic Communities”, Mendeley Data, V1, doi: 10.17632/p6pjkjpvxw.1
 ```
 
 ### Paper Citation
