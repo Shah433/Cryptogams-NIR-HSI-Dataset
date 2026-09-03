@@ -7,7 +7,7 @@ The dataset was used in the conference paper:
  
 **"Near-Infrared Hyperspectral Imaging and Deep Learning for Semantic Segmentation of Cryptogams With Sparse Annotations"**  
 **Paper ID: 1571310702**, Accepted for publication and presented at the **IEEE 12th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA 2026)**.
- 
+  
 ---
  
 ## Dataset Access
