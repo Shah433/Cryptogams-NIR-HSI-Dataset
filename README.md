@@ -14,8 +14,7 @@ The dataset was used in the conference paper:
 
 The complete dataset is available from the following repository:
 
-**Dataset DOI:**   
-
+**Dataset DOI:** http://dx.doi.org/10.17632/p6pjkjpvxw.1
 
 The dataset file:
 
